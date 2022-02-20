@@ -1,5 +1,6 @@
-### Hi there 👋
-This is Kyaw Thet Paing. I'm practicing Programming such as Data Science, Unity Game Development, Web Development and etc...blah...blah...
+### "Hello World"
+### This is Kyaw Thet Paing.
+### I'm practicing Programming such as Data Science, Unity Game Development, Web Development and etc...blah...blah...
 <!--
 **kyawthetpaingme/kyawthetpaingme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
